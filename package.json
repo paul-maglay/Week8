@@ -1,0 +1,11 @@
+{
+    "name": "mongodb-mongoose",
+    "dependencies": {
+        "express": "^4.21.1",
+        "mongodb": "^3.6.3"
+    },
+    "scripts": {
+        "start":"node server.js",
+        "test":"echo \"Error: no test specified\" && exit 1"
+    }
+}
